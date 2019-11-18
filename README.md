@@ -5,6 +5,7 @@
 * 题量：约200道，代码注释内含详解。
 * 难度：总体高于Leetcode，部分接近ACM。
 * 题解：代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
+* 我的解答在sjt_src文件夹下，src文件为原博主的标准答案
 
 # 1.1 题库来源
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
